@@ -1,7 +1,7 @@
-# read2_marckdown : is a way to style text on the web
-## Syntax guide
+# read2_marckdown 
+: is a way to style text on the web
+## containing
 - Headers and list
-
 - Emphasis
   *This text will be italic*
 -linkshttps://github.com/roaaalqisi/read1markdown
