@@ -1,6 +1,6 @@
-# read2_marckdown 
+#read2_marckdown 
 : is a way to style text on the web
-## containing
+##containing
 - Headers and list
 - Emphasis
   *This text will be italic*
